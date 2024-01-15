@@ -1,0 +1,7 @@
+Algorithm,ArraySize,ArrayType,Number of runs,Average_Time
+Selection,100k,Random,10,9.82882e+06 MicroSecs
+Selection,100k,sorted,10,1.03091e+07 MicroSecs
+Bubble,100k,Random,10,2.75496e+07 MicroSecs
+Bubble,100k,sorted,10,195.6 MicroSecs
+Insertion,100k,Random,10,9.12007e+06 MicroSecs
+Insertion,100k,sorted,10,356.46 MicroSecs
